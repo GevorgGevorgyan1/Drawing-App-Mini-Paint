@@ -63,7 +63,3 @@ A simple **Drawing App** built using **Python** and **Tkinter**. This app allows
 - **Eraser**: Click the "Eraser 🧽" button to switch to the eraser mode, where you can erase parts of your drawing.
 - **Clear Canvas**: Click "Clear Canvas ❌" to clear the canvas and start over.
 - **Save Drawing**: Click "Save Drawing 💾" to save your drawing as a PNG file.
-
-## License
-
-This project is open-source and available under the MIT License.
