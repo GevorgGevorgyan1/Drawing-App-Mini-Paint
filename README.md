@@ -25,8 +25,7 @@ A simple **Drawing App** built using **Python** and **Tkinter**. This app allows
 
 ## Files
 
-- `drawing_app.py`: The main Python file containing the drawing logic and UI elements.
-- `image.py`: The image processing file where the drawing is created and stored.
+- `main.py`: The main Python file containing the drawing logic and UI elements and the image processing file where the drawing is created and stored.
 
 ## How to Run
 
