@@ -51,7 +51,7 @@ A simple **Drawing App** built using **Python** and **Tkinter**. This app allows
 4. Run the Python script:
 
     ```bash
-    python drawing_app.py
+    python main.py
     ```
 
 5. The drawing app window will appear, and you can start drawing on the canvas.
